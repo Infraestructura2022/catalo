@@ -27,7 +27,7 @@ body {
 .navbar h2 {
     font-weight: 400;
     font-size: 20px;
-    color: #000000;
+    color: #444;
     font-family: sans-serif;
 }
 
@@ -118,4 +118,8 @@ p {
 
 .logo-btn img:hover {
     transform: scale(1.1);
+}
+
+h4{
+    color: #444;
 }
